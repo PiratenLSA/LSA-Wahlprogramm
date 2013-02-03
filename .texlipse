@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Sat Jan 05 14:20:47 CET 2013
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=
+mainTexFile=lsa_wahlprogramm_praeambel.tex
+outputFile=lsa_wahlprogramm.pdf
+langSpell=de
+markDer=true
+srcDir=
